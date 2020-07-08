@@ -7,7 +7,6 @@ def nyc_pigeon_organizer(data)
   value.each do |inner_key, names|
     binding.pry
   final_array
- a[k] = v + 3
 end         
   binding.pry
 end
